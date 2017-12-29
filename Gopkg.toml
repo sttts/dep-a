@@ -1,3 +1,3 @@
 [[constraint]]
   name = "github.com/sttts/dep-b"
-  branch = "release"
+  revision = "f6e9df18056bbe8ba314f0557900889f3560bce0"
