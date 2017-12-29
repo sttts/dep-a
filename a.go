@@ -7,5 +7,5 @@ import (
 )
 
 func A() string {
-	return fmt.Sprintf("master of dep-a calling %s of dep-b", b.B())
+	return fmt.Sprintf("release of dep-a calling %s of dep-b", b.B())
 }
